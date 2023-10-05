@@ -1,0 +1,368 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+    <meta name="viewport"
+        content="initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no, width=device-width, height=device-height, target-densitydpi=device-dpi">
+    <title></title>
+    <link rel="stylesheet" href="assets/dist/reset.css" type="text/css" media="all" />
+    <link rel="stylesheet" href="assets/dist/css/bootstrap-reset.css" type="text/css" />
+    <link rel="stylesheet" href="assets/font/bootstrap-icons.css" type="text/css" media="all" />
+    <link rel="stylesheet" href="assets/font/ardesico.css" type="text/css" media="all" />
+</head>
+
+<body class="max-1 mx-auto">
+    <div class="container-fluid sticky-top top-0 p-0 bg-white yu-border-y-1">
+        <div class="py-3">
+            <div class="col-12 m-0 p-0">
+                <form action="" method="POST" accept-charset="utf-8" class="d-flex">
+                    <a href="#" class="btn py-2 mx-1 rounded-circle text-secondary"><i class="bi-x-circle-fill fs-5"></i></a>
+                    <input type="text" name="" id="" value="" class="form-control w-100 rounded-pill"
+                        placeholder="Searching @mention #Hashtag" />
+                    <div class="text-center">
+                        <button type="submit" class="btn text-secondary"><i class="bi-search yu-mr-1 fs-5"></i></button>
+                    </div>
+                </form>
+                <div class=" mt-2">
+                    <ul class="nav nav-pills yu-search" id="pills-tab" role="tablist">
+                        <li class="nav-item col-2" role="presentation">
+                            <button class="nav-link active" id="pills-home-tab" data-bs-toggle="pill"
+                                data-bs-target="#pinned" type="button" role="tab" aria-controls="pinned"
+                                aria-selected="true">
+                                <i class="bi-person-badge fs-5"></i>
+                            </button>
+                        <li class="nav-item col-2" role="presentation">
+                            <button class="nav-link" id="pills-home-tab" data-bs-toggle="pill" data-bs-target="#mention"
+                                type="button" role="tab" aria-controls="pills-home" aria-selected="true">
+                                <i class="bi-at fs-5"></i>
+                            </button>
+                        </li>
+                        </li>
+                        <li class="nav-item col-2" role="presentation">
+                            <button class="nav-link" id="pills-profile-tab" data-bs-toggle="pill"
+                                data-bs-target="#hashtag" type="button" role="tab" aria-controls="pills-profile"
+                                aria-selected="false"><i class="bi-hash fs-5"></i></button>
+                        </li>
+                        <li class="nav-item col-2" role="presentation">
+                            <button class="nav-link" id="pills-contact-tab" data-bs-toggle="pill"
+                                data-bs-target="#world" type="button" role="tab" aria-controls="pills-contact"
+                                aria-selected="false">
+                                <i class="bi-play-circle fs-5"></i>
+                            </button>
+                        </li>
+                        <li class="nav-item col-2" role="presentation">
+                            <button class="nav-link" id="pills-contact-tab" data-bs-toggle="pill"
+                                data-bs-target="#written" type="button" role="tab" aria-controls="pills-contact"
+                                aria-selected="false">
+                                <i class="bi-pen fs-5"></i>
+                            </button>
+                        </li>
+                        <li class="nav-item col-2" role="presentation">
+                            <button class="nav-link" id="pills-contact-tab" data-bs-toggle="pill" data-bs-target="#work"
+                                type="button" role="tab" aria-controls="pills-contact" aria-selected="false">
+                                <i class="bi-pin-map fs-5"></i>
+                            </button>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="container-fluid p-0">
+        <div class="tab-content" id="pills-tabContent">
+            <div class="tab-pane fade show active p-3" id="pinned" role="tabpanel" aria-labelledby="pills-home-tab">
+                <div class="">
+                    <div class="d-flex">
+                        <div class="col-6">
+                            <h1 class="m-0 h5 fw-bold w-100">Trending </h1>
+                        </div>
+                        <div class="col-6 text-end justify-content-end"><a class="text-decoration-none" href="#">View
+                                all</a>
+                        </div>
+                    </div>
+                    <small>Some interesting posts for you.</small>
+                </div>
+                <div class="mt-2 d-flex flex-row yu-ov-x-1">
+                    <div class="col-7 yu-mr-1">
+                        <img src="foto/2.jpg" alt="" class="yu-img-tren yu-cover rounded" />
+                        <div class="my-2 d-flex">
+                            <div class="col-2">
+                                <img class="yu-img-tren-profile mt-1 yu-mr-1" src="foto/default/branded.png" />
+                            </div>
+                            <div class="col-10">
+                                <small class="fw-bold">Muhamad Ardiansy..</small>
+                                <br>
+                                <small class="yu-fs-sm-1">Small busiiness for Yunme.</small>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-7 yu-mr-1">
+                        <img src="foto/12.jpg" alt="" class="yu-img-tren yu-cover rounded" />
+                        <div class="my-2 d-flex">
+                            <div class="col-2">
+                                <img class="yu-img-tren-profile mt-1 yu-mr-1" src="foto/default/branded.png" />
+                            </div>
+                            <div class="col-10">
+                                <small class="fw-bold">Muhamad Ardiansy..</small>
+                                <br>
+                                <small class="yu-fs-sm-1">Small busiiness for Yunme.</small>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="">
+                    <div class="d-flex">
+                        <div class="col-12">
+                            <h1 class="m-0 h5 fw-bold w-100">Pined </h1>
+                        </div>
+                    </div>
+                    <small>We submit suggestions with embedded profiles.</small>
+                </div>
+                <!--- Users Followed -->
+                <div class="d-flex my-2 yu-border-yx">
+                    <div class="col-2">
+                        <img src="foto/default/branded.png" alt="" srcset="" class="yu-profile-md yu-cover">
+                    </div>
+                    <div class="col-7">
+                        <div class="p-1">
+                            <h3 class="h6 m-0">Muhamad Ardiansyah <i
+                                    class="ar yu-pos-1 ar-badge-check text-primary"></i></h3>
+                            <small>1,2jt Following</small>
+                        </div>
+                    </div>
+                    <div class="col-3">
+                        <div class="pt-3 text-end justify-content-end">
+                            <a href=""
+                                class="rounded-pill text-primary border border-primary text-decoration-none p-1 px-2">Unfollow</a>
+                        </div>
+                    </div>
+                </div>
+                <!--- End Users Followed -->
+                <!--- Users Followed -->
+                <div class="d-flex my-2 yu-border-yx">
+                    <div class="col-2">
+                        <img src="foto/9.jpg" alt="" srcset="" class="yu-profile-md yu-cover">
+                    </div>
+                    <div class="col-7">
+                        <div class="p-1">
+                            <h3 class="h6 m-0">Rezadian <i class="ar yu-pos-1 ar-badge-check text-primary"></i></h3>
+                            <small>100,8rb Following</small>
+                        </div>
+                    </div>
+                    <div class="col-3">
+                        <div class="pt-3 text-end justify-content-end">
+                            <a href=""
+                                class="rounded-pill text-primary border border-primary text-decoration-none p-1 px-2">Unfollow</a>
+                        </div>
+                    </div>
+                </div>
+                <!--- End Users Followed -->
+                <!--- Users Followed -->
+                <div class="d-flex my-2 yu-border-yx">
+                    <div class="col-2">
+                        <img src="foto/5.jpg" alt="" srcset="" class="yu-profile-md yu-cover">
+                    </div>
+                    <div class="col-7">
+                        <div class="p-1">
+                            <h3 class="h6 m-0">Yure Solvan <i class="ar yu-pos-1 ar-badge-check text-primary"></i></h3>
+                            <small>18,2jt Following</small>
+                        </div>
+                    </div>
+                    <div class="col-3">
+                        <div class="pt-3 text-end justify-content-end">
+                            <a href=""
+                                class="rounded-pill text-primary border border-primary text-decoration-none p-1 px-2">Unfollow</a>
+                        </div>
+                    </div>
+                </div>
+                <!--- End Users Followed -->
+                <div class="">
+                    <div class="d-flex">
+                        <div class="col-12">
+                            <h1 class="m-0 h5 fw-bold w-100">Hashtag </h1>
+                        </div>
+                    </div>
+                    <small>These flags offer responses from different countries. Follow and see what they post.</small>
+                </div>
+                <!--- Hashtag Followed -->
+                <div class="d-flex my-2 yu-border-yx">
+                    <div class="col-2">
+                        <img src="foto/default/tag.png" alt="" srcset="" class="yu-profile-md yu-cover">
+                    </div>
+                    <div class="col-7">
+                        <div class="p-1">
+                            <h3 class="h6 m-0">yuresolvan</h3>
+                            <small>18,2jt Following</small>
+                        </div>
+                    </div>
+                    <div class="col-3">
+                        <div class="pt-3 text-end justify-content-end">
+                            <a href=""
+                                class="rounded-pill text-primary border border-primary text-decoration-none p-1 px-2">Unfollow</a>
+                        </div>
+                    </div>
+                </div>
+                <!--- End Hashtag Followed -->
+                <!--- Hashtag Followed -->
+                <div class="d-flex my-2 yu-border-yx">
+                    <div class="col-2">
+                        <img src="foto/default/tag.png" alt="" srcset="" class="yu-profile-md yu-cover">
+                    </div>
+                    <div class="col-7">
+                        <div class="p-1">
+                            <h3 class="h6 m-0">yunmework</h3>
+                            <small>1,2jt Following</small>
+                        </div>
+                    </div>
+                    <div class="col-3">
+                        <div class="pt-3 text-end justify-content-end">
+                            <a href=""
+                                class="rounded-pill text-primary border border-primary text-decoration-none p-1 px-2">Unfollow</a>
+                        </div>
+                    </div>
+                </div>
+                <!--- End Hashtag Followed -->
+                <div class="">
+                    <small>Trending hastag from search.</small>
+                </div>
+                <div class="mt-2 d-flex flex-row yu-ov-x-1">
+                    <div class="col-3 col-md-2 col-lg-2 text-center justify-content-center yu-mr-1">
+                        <img src="foto/1.jpg" alt=""
+                            class="yu-img-tren-2 border border-3 p-1 border-primary yu-cover rounded-circle" />
+                        <div class="my-1  fw-bold yu-fs-sm-1 text-center">
+                            #yunmebiz
+                        </div>
+                    </div>
+                    <div class="col-3 col-md-2 col-lg-2 text-center justify-content-center yu-mr-1">
+                        <img src="foto/11.jpg" alt=""
+                            class="yu-img-tren-2 border border-3 p-1 border-primary yu-cover rounded-circle" />
+                        <div class="my-1  fw-bold yu-fs-sm-1 text-center">
+                            #fyp
+                        </div>
+                    </div>
+                    <div class="col-3 col-md-2 col-lg-2 text-center justify-content-center yu-mr-1">
+                        <img src="foto/7.jpg" alt=""
+                            class="yu-img-tren-2 border border-3 p-1 border-primary yu-cover rounded-circle" />
+                        <div class="my-1  fw-bold yu-fs-sm-1 text-center">
+                            #yunme
+                        </div>
+                    </div>
+                    <div class="col-3 col-md-2 col-lg-2 text-center justify-content-center yu-mr-1">
+                        <img src="foto/4.jpg" alt=""
+                            class="yu-img-tren-2 border border-3 p-1 border-primary yu-cover rounded-circle" />
+                        <div class="my-1  fw-bold yu-fs-sm-1 text-center">
+                            #sajakdetik
+                        </div>
+                    </div>
+
+                </div>
+                <div class="my-2">
+                    <div class="d-flex">
+                        <div class="col-12">
+                            <h1 class="m-0 h5 fw-bold w-100">Popular </h1>
+                        </div>
+                    </div>
+                    <small>They write on the platform. Appreciate the visit.</small>
+                    <div class="d-flex yu-ov-x-1 flex-row">
+                        <div class="col-10 yu-mr-1">
+                            <div class="my-2">
+                                <img src="foto/4.jpg" class="yu-ads-search yu-cover rounded" />
+                            </div>
+                            <b>Make a memories you in Yunme ...</b><br>
+                            <small>These flags offer responses from different countries. Follow and see what they post.
+                                <br>
+                                <span class="text-secondary">muhamadardiansyah • new posts</span>
+                            </small>
+                        </div>
+                        <div class="col-10 yu-mr-1">
+                            <div class="my-2">
+                                <img src="foto/6.jpg" class="yu-ads-search yu-cover rounded" />
+                            </div>
+                            <b>Make a memories you in Yunme ...</b><br>
+                            <small>These flags offer responses from different countries. Follow and see what they post.
+                                <br>
+                                <span class="text-secondary">muhamadardiansyah • new posts</span>
+                            </small>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="tab-pane fade p-3" id="mention" role="tabpanel" aria-labelledby="pills-home-tab">
+                <div class="mb-3">
+                    <div class="d-flex">
+                        <div class="col-12">
+                            <h1 class="m-0 h5 fw-bold w-100">Person </h1>
+                        </div>
+
+                    </div>
+                    <small>Those listed are here and you can create mentions with them.</small>
+                </div>
+                <!--- Users Followed -->
+                <div class="d-flex mb-2 yu-border-yx">
+                    <div class="col-2">
+                        <img src="foto/default/branded.png" alt="" srcset="" class="yu-profile-md yu-cover">
+                    </div>
+                    <div class="col-7">
+                        <div class="p-1">
+                            <h3 class="h6 m-0">Muhamad Ardiansyah <i
+                                    class="ar yu-pos-1 ar-badge-check text-primary"></i></h3>
+                            <small>1,2jt Following</small>
+                        </div>
+                    </div>
+                    <div class="col-3">
+                        <div class="pt-3 text-end justify-content-end">
+                            <a href=""
+                                class="rounded-pill text-primary border border-primary text-decoration-none p-1 px-2">Unfollow</a>
+                        </div>
+                    </div>
+                </div>
+                <!--- End Users Followed -->
+                <!--- Users Followed -->
+                <div class="d-flex my-2 yu-border-yx">
+                    <div class="col-2">
+                        <img src="foto/9.jpg" alt="" srcset="" class="yu-profile-md yu-cover">
+                    </div>
+                    <div class="col-7">
+                        <div class="p-1">
+                            <h3 class="h6 m-0">Rezadian <i class="ar yu-pos-1 ar-badge-check text-primary"></i></h3>
+                            <small>10,8rb Following</small>
+                        </div>
+                    </div>
+                    <div class="col-3">
+                        <div class="pt-3 text-end justify-content-end">
+                            <a href=""
+                                class="rounded-pill text-primary border border-primary text-decoration-none p-1 px-2">Unfollow</a>
+                        </div>
+                    </div>
+                </div>
+                <!--- End Users Followed -->
+                <!--- Users Followed -->
+                <div class="d-flex my-2 yu-border-yx">
+                    <div class="col-2">
+                        <img src="foto/5.jpg" alt="" srcset="" class="yu-profile-md yu-cover">
+                    </div>
+                    <div class="col-7">
+                        <div class="p-1">
+                            <h3 class="h6 m-0">Yure Solvan <i class="ar yu-pos-1 ar-badge-check text-primary"></i></h3>
+                            <small>18,2jt Following</small>
+                        </div>
+                    </div>
+                    <div class="col-3">
+                        <div class="pt-3 text-end justify-content-end">
+                            <a href=""
+                                class="rounded-pill text-primary border border-primary text-decoration-none p-1 px-2">Unfollow</a>
+                        </div>
+                    </div>
+                </div>
+                <!--- End Users Followed -->
+            </div>
+        </div>
+    </div>
+    <script src="assets/dist/js/bootstrap.bundle.min.js" type="text/javascript" charset="utf-8"></script>
+</body>
+
+</html>

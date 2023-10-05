@@ -1,0 +1,356 @@
+@font-face {
+  font-family: "georgia";
+  src: url(../font/georgia.ttf);
+}
+html {
+  font-family: "georgia";
+}
+.max-1 {
+  max-width: 600px;
+}
+.max {
+  max-width: 1367px;
+  background: #fff;
+}
+.yu-logov {
+  width: 40px;
+  height: 40px;
+}
+.yu-cover {
+  object-fit: cover;
+}
+.yu-pos-fix {
+  position: relative;
+  text-align: right;
+  justify-content: right;
+  align-items: right;
+  right: 0;
+}
+.mx-12 {
+  margin: 0 12.5px;
+}
+.yu-border-xy {
+  border-right: 0.75px solid #adb5bd;
+  border-left: 0.75px solid #adb5bd;
+}
+.yu-fs-small small {
+  font-size: 10px;
+  font-weight: bold;
+}
+.yu-ovy-1 {
+  max-height: 92.5vh;
+  overflow-y: auto;
+  overflow-x: hidden;
+}
+::-webkit-scrollbar {
+  height: 0;
+  width: 0;
+  color: transparent;
+  background: transparent;
+}
+.yu-story {
+  display: flex;
+  max-width: 1200px;
+  overflow-y: hidden;
+  overflow-x: auto;
+}
+.yu-profile {
+  margin: 0 7.5px;
+}
+.yu-profile-img {
+  width: 60px;
+  height: 60px;
+}
+.yu-plus {
+  width: 70px;
+  height: 60px;
+  background: #fff;
+  border-radius: 100%;
+  color: #000000;
+  margin-right: 7.5px;
+}
+.yu-border-y-1 {
+  border-bottom: 0.85px solid #adb5bd;
+}
+.yu-pos-ab-1 {
+  position: relative;
+  top: 0%;
+  transform: translateX(20%);
+}
+.yu-fs-1 {
+  font-size: 45px;
+}
+.yu-profile-post {
+  height: 40px;
+  width: 40px;
+  background: #000;
+  padding: 2px;
+  border: 3px solid #f2f2f2;
+}
+.sticky-js {
+  position: sticky;
+  position: -webkit-sticky;
+  top: 60px;
+  z-index: 100;
+}
+.yu-fo a i {
+  font-size: 18px;
+}
+.yu-fo-re-1 {
+  position: relative;
+  top: -3px;
+  font-size: 12px;
+  margin: 0 0.5px;
+  font-weight: bold;
+}
+.yu-mr-1 {
+  margin-right: 10px;
+}
+.yu-pos-ab-b-1 {
+  position: absolute;
+  bottom: 10px;
+}
+.yu-fs-md-0 {
+  font-size: 14.75px;
+}
+.yu-fs-md-1 {
+  font-size: 19px;
+}
+
+.yu-post-img {
+  max-height: 340px;
+  width: 100%;
+}
+.yu-post-img-dis-2 {
+  max-height: 170px;
+  width: 100%;
+}
+.yu-post-img-dis-3 {
+  max-height: 170px;
+  width: 100%;
+}
+.yu-post-img-dis-3x1 {
+  max-height: 170px;
+  width: 100%;
+}
+.yu-img-first {
+  margin-bottom: 20px;
+}
+.yu-img-first-bottom {
+  padding-bottom: 4px;
+}
+.yu-img-first-top {
+  padding-bottom: 4px;
+}
+.yu-img-first-left {
+  padding-right: 4px;
+}
+.yu-img-first-right {
+  padding-left: 4px;
+}
+.yu-ads {
+  width: 100%;
+  height: 160px;
+}
+.yu-ads-search {
+  width: 100%;
+  height: 150px;
+}
+.yu-profile-md {
+  width: 50px;
+  height: 50px;
+  border-radius: 100%;
+}
+.yu-fs-sm-1 {
+  font-size: 12px;
+}
+.yu-brig-1 {
+  filter: brightness(60%);
+}
+.yu-logo-log-up {
+  width: 90px;
+  height: 90px;
+}
+.yu-posts-img {
+  height: 40px;
+  width: 40px;
+}
+.yu-area-1 {
+  width: 100%;
+  height: 280px;
+  border: none;
+  padding: 10px 0;
+}
+.yu-area-1:focus,
+.yu-select-1:focus {
+  outline: 0;
+}
+.yu-select-1 {
+  border: none;
+  background: #f2f2f2;
+}
+.yu-ml-1 {
+  margin-left: 10px;
+}
+.yu-search li button.nav-link {
+  color: #6c757d;
+}
+.yu-search li button.active {
+  color: #000 !important;
+  background: transparent !important;
+}
+.yu-img-tren {
+  width: 100%;
+  height: 230px;
+}
+.yu-img-tren-2 {
+  width: 80px;
+  height: 80px;
+}
+.yu-img-tren-profile {
+  height: 23px;
+  width: 23px;
+}
+.yu-ov-x-1 {
+  max-width: 800px;
+  overflow-y: hidden;
+  overflow-x: auto;
+}
+.yu-pos-0 {
+  position: relative;
+  top: 1.5px;
+}
+.yu-pos-1 {
+  position: relative;
+  top: 2px;
+}
+.yu-ico-none {
+  display: none;
+}
+.yu-com-img {
+  width: 40px;
+  height: 40px;
+}
+.yu-bg-gray {
+  background: #f5f5f5;
+}
+.yu-rounded-normal {
+  border-radius: 15px;
+}
+#yu-desktop {
+  display: none;
+}
+.sticky-pages {
+  position: relative;
+}
+.yu-sampul-pages {
+  width: 100%;
+  height: 140px;
+  border-bottom: 0.75px solid #adb5bd;
+}
+.yu-foto-pages {
+  height: 110px;
+  width: 110px;
+  background: #000;
+}
+.yu-foto {
+  border: 4px solid #fff;
+  position: absolute;
+  bottom: -50px;
+  left: 20px;
+}
+.yu-w-app {
+  max-width: 435px;
+}
+.yu-panel-edit-sampul {
+  position: absolute;
+  bottom: 15px;
+  right: 15px;
+  border-radius: 8px;
+}
+.yu-panel-edit-foto {
+  position: absolute;
+  bottom: 2.5px;
+  right: 2.5px;
+  border-radius: 8px;
+}
+.yu-cam-edit {
+  padding: 5px 7px;
+  background: #000;
+  border-radius: 8px;
+  color: #fff;
+  border: 2px solid #fff;
+}
+.yu-pxl-1 {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.yu-welcome {
+}
+@media (max-width: 591px) {
+  .yu-pos-fix {
+    position: fixed;
+    bottom: 0;
+    background: #fff;
+    border-top: 0.85px solid #adb5bd;
+    padding: 15px 10px;
+    text-align: center;
+    justify-content: center;
+    right: 0;
+    left: 0;
+  }
+  .yu-w-app {
+    max-width: 100%;
+  }
+  .sticky-pages {
+    position: fixed;
+
+    top: 60px;
+    left: 2.5px;
+    z-index: 3;
+  }
+  .mx-12 {
+    margin: 0;
+  }
+  .yu-ovy-1 {
+    max-height: 91%;
+  }
+  .yu-pos-ab-1 {
+    position: relative;
+    top: 5%;
+    transform: translateX(5%);
+  }
+  .yu-fs-1 {
+    font-size: 60px;
+  }
+  .yu-border-y-sm {
+    border: 0.75px solid #adb5bd;
+  }
+  .yu-border-xy {
+    border-left: none;
+    border-right: none;
+  }
+  .yu-pxl-1 {
+    padding-left: 10px;
+    padding-right: 0px;
+  }
+}
+
+@media (max-width: 800px) {
+  .yu-md-side a,
+  .yu-md-side a i {
+    font-size: 14px;
+  }
+  .yu-w-app {
+    max-width: 600px;
+  }
+}
+@media (min-width: 1000px) and (max-width: 1200px) {
+  .yu-profile-mimg,
+  .yu-fov {
+    display: none;
+  }
+  .yu-pos-fix {
+    right: 15px;
+  }
+}

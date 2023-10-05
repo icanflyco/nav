@@ -1,0 +1,426 @@
+    <!---- Posted Status Short ---->
+    <div class="mt-1 yu-border-y-1">
+        <div class="d-flex flex-row">
+            <div class="col-2 col-md-1 col-lg-1 position-relative">
+                <div class="p-2 h-100">
+                    <div class="yu-pos-sticky-img_1 text-center">
+                        <img id="yu-sticky_1" src="foto/default/branded.png" alt=""
+                        class="yu-profile-post yu-cover rounded-circle" />
+                    </div>
+                    <div class="d-flex flex-column text-center">
+
+                        <div class="yu-ico-none">
+                            <div class="p-2 mt-1">
+                                <a href="" class="text-secondary"><i class="bi-globe fs-5"></i></a>
+                            </div>
+                            <div class="p-2 mt-1">
+                                <a href="" class="text-secondary"><i class="bi-instagram fs-5"></i></a>
+                            </div>
+                            <div class="p-2 mt-1">
+                                <a href="" class="text-secondary"><i class="bi-linkedin fs-5"></i></a>
+                            </div>
+                            <div class="p-2 mt-1">
+                                <a href="" class="text-secondary"><i class="bi-shop fs-5"></i></a>
+                            </div>
+                        </div>
+                        <div class="p-2 mt-1">
+                            <a href="" class="text-secondary"><i class="bi-bookmark fs-5"></i></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-9 col-md-10 col-lg-10 px-md-2">
+                <h2 class="m-0 h6 pt-2 fw-bold">Muhamad Ardiansyah <i
+                    class="ar ar-badge-check text-primary yu-pos-0"></i></h2>
+                <div class="text-dark">
+                    <small class="yu-fs-md-0"><b>ardeov_</b> - Hello</small>
+                </div>
+                <div class="text-secondary">
+                    <small class="yu-fs-md-0">10:10 10 Jun 2023</small>
+                </div>
+                <div class="mb-3 mt-2">
+                    <div class="d-flex flex-row yu-fo">
+                        <div class="position-relative yu-mr-1">
+                            <a href="" class="text-decoration-none text-secondary"><i
+                                class="bi-heart-fill text-danger"></i></a> <span
+                                class="text-danger yu-fo-re-1">100,4rb</span>
+                        </div>
+
+                        <div class="position-relative yu-mr-1">
+                            <a href="" class="text-decoration-none text-secondary"><i
+                                class="bi-repeat text-secondary yu-fs-md-1"></i></a> <span
+                                class="text-secondary yu-fo-re-1">101,6rb</span>
+                        </div>
+                        <div class="position-relative yu-mr-1">
+                            <a href="" class="text-decoration-none text-secondary"><i
+                                class="bi-chat text-secondary"></i></a> <span
+                                class="text-secondary yu-fo-re-1">100,4rb</span>
+                        </div>
+
+
+                        <div class="position-relative yu-mr-1">
+                            <a href="" class="text-decoration-none text-secondary"><i
+                                class="bi-share text-secondary"></i></a>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+            <div class="col-1">
+                <div class="mt-2">
+                    <a class="" href="#"><i class="bi-three-dots text-secondary fs-5"></i></a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!---- End Posted ---->
+    <!---- Posted Status Short ---->
+    <div class="mt-1 yu-border-y-1">
+        <div class="d-flex flex-row">
+            <div class="col-2 col-md-1 col-lg-1 position-relative">
+                <div class="p-2 h-100">
+                    <div class="yu-pos-sticky-img_1 text-center">
+                        <img id="yu-sticky_1" src="foto/default/branded.png" alt=""
+                        class="yu-profile-post yu-cover rounded-circle" />
+                    </div>
+                    <div class="d-flex flex-column text-center">
+
+                        <div class="yu-ico-none">
+                            <div class="p-2 mt-1">
+                                <a href="" class="text-secondary"><i class="bi-globe fs-5"></i></a>
+                            </div>
+                            <div class="p-2 mt-1">
+                                <a href="" class="text-secondary"><i class="bi-instagram fs-5"></i></a>
+                            </div>
+                            <div class="p-2 mt-1">
+                                <a href="" class="text-secondary"><i class="bi-linkedin fs-5"></i></a>
+                            </div>
+                            <div class="p-2 mt-1">
+                                <a href="" class="text-secondary"><i class="bi-shop fs-5"></i></a>
+                            </div>
+                        </div>
+                        <div class="p-2 mt-1">
+                            <a href="" class="text-secondary"><i class="bi-bookmark fs-5"></i></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-9 col-md-10 col-lg-10 px-md-2">
+                <h2 class="m-0 h6 pt-2 fw-bold">Muhamad Ardiansyah <i
+                    class="ar ar-badge-check text-primary yu-pos-0"></i></h2>
+                <div class="text-dark">
+                    <small class="yu-fs-md-0"><b>ardeov_ reposted <a href=""
+                        class="text-decoration-none">@jeni</a> posts </b> - Hello</small>
+                </div>
+                <div class="text-secondary">
+                    <small class="yu-fs-md-0">10:10 10 Jun 2023</small>
+                </div>
+                <div class="mb-3 mt-2">
+                    <div class="d-flex flex-row yu-fo">
+                        <div class="position-relative yu-mr-1">
+                            <a href="" class="text-decoration-none text-secondary"><i
+                                class="bi-heart-fill text-danger"></i></a> <span
+                                class="text-danger yu-fo-re-1">100,4rb</span>
+                        </div>
+
+                        <div class="position-relative yu-mr-1">
+                            <a href="" class="text-decoration-none text-secondary"><i
+                                class="bi-repeat text-secondary yu-fs-md-1"></i></a> <span
+                                class="text-secondary yu-fo-re-1">101,6rb</span>
+                        </div>
+                        <div class="position-relative yu-mr-1">
+                            <a href="" class="text-decoration-none text-secondary"><i
+                                class="bi-chat text-secondary"></i></a> <span
+                                class="text-secondary yu-fo-re-1">100,4rb</span>
+                        </div>
+
+
+                        <div class="position-relative yu-mr-1">
+                            <a href="" class="text-decoration-none text-secondary"><i
+                                class="bi-share text-secondary"></i></a>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+            <div class="col-1">
+                <div class="mt-2">
+                    <a class="" href="#"><i class="bi-three-dots text-secondary fs-5"></i></a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!---- End Posted ---->
+    <!---- Posted Image 2 ---->
+    <div class="mt-1 yu-border-y-1">
+        <div class="d-flex flex-row">
+            <div class="col-2 col-md-1 col-lg-1 position-relative">
+                <div class="p-2 h-100">
+                    <div class="yu-pos-sticky-img_1 text-center">
+                        <img id="yu-sticky_1" src="foto/default/branded.png" alt=""
+                        class="yu-profile-post yu-cover rounded-circle" />
+                    </div>
+                    <div class="d-flex flex-column text-center">
+                        <div class="p-2 mt-1">
+                            <a href="" class="text-secondary"><i class="bi-globe fs-5"></i></a>
+                        </div>
+                        <div class="p-2 mt-1">
+                            <a href="" class="text-secondary"><i class="bi-instagram fs-5"></i></a>
+                        </div>
+                        <div class="p-2 mt-1">
+                            <a href="" class="text-secondary"><i class="bi-linkedin fs-5"></i></a>
+                        </div>
+                        <div class="p-2 mt-1">
+                            <a href="" class="text-secondary"><i class="bi-shop fs-5"></i></a>
+                        </div>
+                        <div class="p-2 mt-1">
+                            <a href="" class="text-secondary"><i class="bi-bookmark fs-5"></i></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-9 col-md-10 col-lg-10 px-md-2">
+                <h2 class="m-0 h6 pt-2 fw-bold">Muhamad Ardiansyah <i
+                    class="ar ar-badge-check text-primary yu-pos-0"></i></h2>
+                <div class="text-dark">
+                    <small class="yu-fs-md-0"><b>ardeov_</b> - propriae neque efficiantur evertitur
+                        feugiat sale eirmod
+                        invenire fugit signiferumque ex instructior .. <span
+                            class="text-secondary">continue reading</span></small>
+                </div>
+                <!---- post img --->
+                <div class="col-12 d-flex yu-ov-x-2">
+                    <img src="foto/4.jpg" alt=""
+                    class="yu-post-img-dis-2 rounded yu-cover my-1 yu-img-first yu-pr-0" />
+                    <img src="foto/3.jpg" alt="" class="yu-post-img-dis-2 rounded yu-cover my-1" />
+                </div>
+                <!--- End Post img --->
+
+                <div class="text-secondary">
+                    <small class="yu-fs-md-0">10:10 10 Jun 2023</small>
+                </div>
+                <div class="mb-3 mt-2">
+                    <div class="d-flex flex-row yu-fo">
+                        <div class="position-relative yu-mr-1">
+                            <a href="" class="text-decoration-none text-secondary"><i
+                                class="bi-heart-fill text-danger"></i></a> <span
+                                class="text-danger yu-fo-re-1">100,4rb</span>
+                        </div>
+
+                        <div class="position-relative yu-mr-1">
+                            <a href="" class="text-decoration-none text-secondary"><i
+                                class="bi-repeat text-secondary yu-fs-md-1"></i></a> <span
+                                class="text-secondary yu-fo-re-1">101,6rb</span>
+                        </div>
+                        <div class="position-relative yu-mr-1">
+                            <a href="" class="text-decoration-none text-secondary"><i
+                                class="bi-chat text-secondary"></i></a> <span
+                                class="text-secondary yu-fo-re-1">100,4rb</span>
+                        </div>
+
+
+                        <div class="position-relative yu-mr-1">
+                            <a href="" class="text-decoration-none text-secondary"><i
+                                class="bi-share text-secondary"></i></a>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+            <div class="col-1">
+                <div class="mt-2">
+                    <a class="" href="#"><i class="bi-three-dots text-secondary fs-5"></i></a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!---- End Posted ---->
+    <!---- Posted Image 3 ---->
+    <div class="mt-1 yu-border-y-1">
+        <div class="d-flex flex-row">
+            <div class="col-2 col-md-1 col-lg-1 position-relative">
+                <div class="p-2 h-100">
+                    <div class="yu-pos-sticky-img_1 text-center">
+                        <img id="yu-sticky_1" src="foto/default/branded.png" alt=""
+                        class="yu-profile-post yu-cover rounded-circle" />
+                    </div>
+                    <div class="d-flex flex-column text-center">
+                        <div class="p-2 mt-1">
+                            <a href="" class="text-secondary"><i class="bi-globe fs-5"></i></a>
+                        </div>
+                        <div class="p-2 mt-1">
+                            <a href="" class="text-secondary"><i class="bi-instagram fs-5"></i></a>
+                        </div>
+                        <div class="p-2 mt-1">
+                            <a href="" class="text-secondary"><i class="bi-linkedin fs-5"></i></a>
+                        </div>
+                        <div class="p-2 mt-1">
+                            <a href="" class="text-secondary"><i class="bi-shop fs-5"></i></a>
+                        </div>
+                        <div class="p-2 mt-1">
+                            <a href="" class="text-secondary"><i class="bi-bookmark fs-5"></i></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-9 col-md-10 col-lg-10 px-md-2">
+                <h2 class="m-0 h6 pt-2 fw-bold">Muhamad Ardiansyah <i
+                    class="ar ar-badge-check text-primary yu-pos-0"></i></h2>
+                <div class="text-dark">
+                    <small class="yu-fs-md-0"><b>ardeov_</b> - propriae neque efficiantur evertitur
+                        feugiat sale eirmod
+                        invenire fugit signiferumque ex instructior .. <span
+                            class="text-secondary">continue reading</span></small>
+                </div>
+                <!---- post img --->
+                <div class="col-12 d-flex flex-column">
+                    <div class="col-12 d-flex flex-row my-2 yu-ov-x-2">
+                        <div class="col-9 col-lg-4 col-md-4 yu-img-first-left">
+                            <img src="foto/4.jpg" alt="" class="yu-post-img-dis-3x1 rounded yu-cover" />
+                        </div>
+                        <div class="col-9 col-lg-4 col-md-4 yu-img-first-left yu-img-first-right">
+                            <img src="foto/4.jpg" alt="" class="yu-post-img-dis-3x1 rounded yu-cover" />
+                        </div>
+                        <div class="col-9 col-lg-4 col-md-4 yu-img-first-right">
+                            <img src="foto/4.jpg" alt="" class="yu-post-img-dis-3x1 rounded yu-cover" />
+                        </div>
+                    </div>
+                </div>
+                <!--- End Post img --->
+
+                <div class="text-secondary">
+                    <small class="yu-fs-md-0">10:10 10 Jun 2023</small>
+                </div>
+                <div class="mb-3 mt-2">
+                    <div class="d-flex flex-row yu-fo">
+                        <div class="position-relative yu-mr-1">
+                            <a href="" class="text-decoration-none text-secondary"><i
+                                class="bi-heart-fill text-danger"></i></a> <span
+                                class="text-danger yu-fo-re-1">100,4rb</span>
+                        </div>
+
+                        <div class="position-relative yu-mr-1">
+                            <a href="" class="text-decoration-none text-secondary"><i
+                                class="bi-repeat text-secondary yu-fs-md-1"></i></a> <span
+                                class="text-secondary yu-fo-re-1">101,6rb</span>
+                        </div>
+                        <div class="position-relative yu-mr-1">
+                            <a href="" class="text-decoration-none text-secondary"><i
+                                class="bi-chat text-secondary"></i></a> <span
+                                class="text-secondary yu-fo-re-1">100,4rb</span>
+                        </div>
+
+
+                        <div class="position-relative yu-mr-1">
+                            <a href="" class="text-decoration-none text-secondary"><i
+                                class="bi-share text-secondary"></i></a>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+            <div class="col-1">
+                <div class="mt-2">
+                    <a class="" href="#"><i class="bi-three-dots text-secondary fs-5"></i></a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!---- End Posted ---->
+    <!---- Posted Image 4 ---->
+    <div class="mt-1 yu-border-y-1">
+        <div class="d-flex flex-row">
+            <div class="col-2 col-md-1 col-lg-1 position-relative">
+                <div class="p-2 h-100">
+                    <div class="yu-pos-sticky-img_1 text-center">
+                        <img id="yu-sticky_1" src="foto/default/branded.png" alt=""
+                        class="yu-profile-post yu-cover rounded-circle" />
+                    </div>
+                    <div class="d-flex flex-column text-center">
+                        <div class="p-2 mt-1">
+                            <a href="" class="text-secondary"><i class="bi-globe fs-5"></i></a>
+                        </div>
+                        <div class="p-2 mt-1">
+                            <a href="" class="text-secondary"><i class="bi-instagram fs-5"></i></a>
+                        </div>
+                        <div class="p-2 mt-1">
+                            <a href="" class="text-secondary"><i class="bi-linkedin fs-5"></i></a>
+                        </div>
+                        <div class="p-2 mt-1">
+                            <a href="" class="text-secondary"><i class="bi-shop fs-5"></i></a>
+                        </div>
+                        <div class="p-2 mt-1">
+                            <a href="" class="text-secondary"><i class="bi-bookmark fs-5"></i></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-9 col-md-10 col-lg-10 px-md-2">
+                <h2 class="m-0 h6 pt-2 fw-bold">Muhamad Ardiansyah <i
+                    class="ar ar-badge-check text-primary yu-pos-0"></i></h2>
+                <div class="text-dark">
+                    <small class="yu-fs-md-0"><b>ardeov_</b> - propriae neque efficiantur evertitur
+                        feugiat sale eirmod
+                        invenire fugit signiferumque ex instructior .. <span
+                            class="text-secondary">continue reading</span></small>
+                </div>
+                <!---- post img --->
+                <div class="col-12 d-flex flex-column">
+                    <div class="col-12 d-flex flex-row py-1">
+                        <div class="col-6 yu-img-first-left">
+                            <img src="foto/4.jpg" alt="" class="yu-post-img-dis-3x2 rounded yu-cover" />
+                        </div>
+                        <div class="col-6 yu-img-first-right">
+                            <img src="foto/4.jpg" alt="" class="yu-post-img-dis-3x2 rounded yu-cover" />
+                        </div>
+                    </div>
+                    <div class="col-12 d-flex flex-row py-1">
+                        <div class="col-6 yu-img-first-left">
+                            <img src="foto/4.jpg" alt="" class="yu-post-img-dis-3x2 rounded yu-cover" />
+                        </div>
+                        <div class="col-6 yu-img-first-right">
+                            <img src="foto/4.jpg" alt="" class="yu-post-img-dis-3x2 rounded yu-cover" />
+                        </div>
+                    </div>
+                </div>
+                <!--- End Post img --->
+
+                <div class="text-secondary">
+                    <small class="yu-fs-md-0">10:10 10 Jun 2023</small>
+                </div>
+                <div class="mb-3 mt-2">
+                    <div class="d-flex flex-row yu-fo">
+                        <div class="position-relative yu-mr-1">
+                            <a href="" class="text-decoration-none text-secondary"><i
+                                class="bi-heart-fill text-danger"></i></a> <span
+                                class="text-danger yu-fo-re-1">100,4rb</span>
+                        </div>
+
+                        <div class="position-relative yu-mr-1">
+                            <a href="" class="text-decoration-none text-secondary"><i
+                                class="bi-repeat text-secondary yu-fs-md-1"></i></a> <span
+                                class="text-secondary yu-fo-re-1">101,6rb</span>
+                        </div>
+                        <div class="position-relative yu-mr-1">
+                            <a href="" class="text-decoration-none text-secondary"><i
+                                class="bi-chat text-secondary"></i></a> <span
+                                class="text-secondary yu-fo-re-1">100,4rb</span>
+                        </div>
+
+
+                        <div class="position-relative yu-mr-1">
+                            <a href="" class="text-decoration-none text-secondary"><i
+                                class="bi-share text-secondary"></i></a>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+            <div class="col-1">
+                <div class="mt-2">
+                    <a class="" href="#"><i class="bi-three-dots text-secondary fs-5"></i></a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!---- End Posted ---->
